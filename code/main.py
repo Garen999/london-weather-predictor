@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #creating data frame
-weather = pd.read_csv('data\london_weather.csv')
+weather = pd.read_csv('data/london_weather.csv')
 weather['date'] = pd.to_datetime(weather['date'],format='%Y%m%d')
 
 #cleaning data frame
