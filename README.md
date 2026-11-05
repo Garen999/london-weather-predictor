@@ -13,6 +13,8 @@ The project explores the process of building a regression model, from data clean
 - **Model evaluation:** Compares predictions against a persistence baseline using MAE, RMSE and R².
 - **Visualisation:** Displays actual versus predicted temperatures, prediction errors over time and monthly prediction errors.
 
+![alt text](images/graphs.png)
+
 ## Technologies
 
 - Python
